@@ -1,24 +1,47 @@
-# README
+<h1>A simple social network with rails</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Interested in the project?
 
-Things you may want to cover:
+This project is straightforward to explain and consists of a straightforward, free, dynamic rails-based portfolio that organizations and departments or other parts of their businesses can use.
 
-* Ruby version
+### built with
 
-* System dependencies
+* [Ruby 3.1.2](https://www.ruby-lang.org/pt/)
+* [Rails 7.0.3.1](https://rubyonrails.org/)
+* [Postgresql](https://www.postgresql.org/)
 
-* Configuration
+<!-- GETTING STARTED -->
+## getting started
 
-* Database creation
+to contribute to this project, you can easily set-up eeloo locally and start coding.
 
-* Database initialization
+### installation
 
-* How to run the test suite
+1. clone the repo
+   ```sh
+   git clone https://github.com/CarllosHenrique/porthub.git
+   ```
+2. install dependencies
+   ```sh
+   bin/setup
+   ```
+## contributing
 
-* Services (job queues, cache servers, search engines, etc.)
+Any contributions you make are **greatly appreciated**.
 
-* Deployment instructions
+if you like Clapton and have a suggestion for this website, fork the repo and create a pull request.
 
-* ...
+1. fork the project
+2. create your feature branch 
+```sh
+git checkout -b feature/AmazingFeature
+```
+3. commit your changes
+```sh
+git commit -m 'Add some AmazingFeature'
+```
+4. push to the branch 
+```sh
+git push origin feature/AmazingFeature
+```
+5. open a pull request
