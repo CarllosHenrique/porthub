@@ -1,4 +1,4 @@
-<h1>A simple social network with rails</h1>
+<h1>Portfolio</h1>
 
 ## Interested in the project?
 
